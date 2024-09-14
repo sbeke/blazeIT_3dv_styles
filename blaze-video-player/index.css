@@ -150,4 +150,6 @@ body {
   cursor: pointer;
   top: 2rem;
   right: 2rem;
+  width: 2rem;
+  height: 2rem;
 }
